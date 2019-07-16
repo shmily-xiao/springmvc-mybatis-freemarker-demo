@@ -22,7 +22,7 @@
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
           <element id="library" level="project" name="Maven: ognl:ognl:3.0.8" />
           <element id="library" level="project" name="Maven: javassist:javassist:3.11.0.GA" />
-          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.2.8" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.5.2" />
           <element id="library" level="project" name="Maven: org.mybatis.caches:mybatis-ehcache:1.0.3" />
           <element id="library" level="project" name="Maven: net.sf.ehcache:ehcache-core:2.6.8" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.0.12" />
@@ -38,7 +38,7 @@
           <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.1.3.GA" />
           <element id="library" level="project" name="Maven: com.fasterxml:classmate:1.0.0" />
           <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
-          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.0" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.59_preview_07" />
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.3.2" />
           <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.9" />
